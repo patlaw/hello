@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "This is a new post!"
+date:   2015-05-07 15:29:27
+categories: hello
+---
+Hello, world in java!
+
+{% highlight java %}
+public class hello {
+  public static main(String[] args) {
+    System.out.println("Hello");
+    System.exit(0);
+  }
+}
+{% endhighlight %}
